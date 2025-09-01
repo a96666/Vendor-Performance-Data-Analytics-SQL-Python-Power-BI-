@@ -1,0 +1,987 @@
+2025-08-21 00:45:48,749 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-21 00:45:48,751 - WARNING - No such comm: a931541b-1cc6-47d6-8844-d38ecd2b3000
+2025-08-21 00:45:48,751 - DEBUG - Current comms: []
+2025-08-21 01:02:22,854 - INFO - Processing begin_inventory.csv...
+2025-08-21 01:02:24,574 - INFO - Inserted 206529 rows into 'begin_inventory' table.
+2025-08-21 01:02:24,575 - INFO - begin_inventory.csv ingested successfully.
+2025-08-21 01:02:24,575 - INFO - Processing end_inventory.csv...
+2025-08-21 01:02:26,531 - INFO - Inserted 224489 rows into 'end_inventory' table.
+2025-08-21 01:02:26,532 - INFO - end_inventory.csv ingested successfully.
+2025-08-21 01:02:26,532 - INFO - Processing purchases.csv...
+2025-08-21 01:02:26,532 - INFO - purchases.csv is large (344.83 MB). Ingesting in chunks...
+2025-08-21 01:02:28,307 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:29,018 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:29,774 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:30,408 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:31,114 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:31,790 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:32,445 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:33,167 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:33,846 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:34,535 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:35,172 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:35,870 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:36,498 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:37,156 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:37,854 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:38,512 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:39,215 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:39,855 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:40,550 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:41,176 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:41,894 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:42,576 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:43,294 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:43,982 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:44,689 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:45,403 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:46,059 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:46,748 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:47,424 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:48,101 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:48,867 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:49,558 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:50,314 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:51,016 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:51,802 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:52,493 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:53,251 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:54,103 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:54,854 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:55,698 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:56,391 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:57,172 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:57,871 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:58,701 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:02:59,424 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:03:00,224 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:03:00,986 - INFO - Inserted 50000 rows into 'purchases' table.
+2025-08-21 01:03:01,383 - INFO - Inserted 22474 rows into 'purchases' table.
+2025-08-21 01:03:01,383 - INFO - purchases.csv ingested successfully in chunks.
+2025-08-21 01:03:01,384 - INFO - Processing purchase_prices.csv...
+2025-08-21 01:03:01,530 - INFO - Inserted 12261 rows into 'purchase_prices' table.
+2025-08-21 01:03:01,530 - INFO - purchase_prices.csv ingested successfully.
+2025-08-21 01:03:01,530 - INFO - Processing sales.csv...
+2025-08-21 01:03:01,530 - INFO - sales.csv is large (1522.76 MB). Ingesting in chunks...
+2025-08-21 01:03:06,718 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:07,395 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:08,128 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:08,814 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:09,514 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:10,126 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:10,810 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:11,426 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:12,157 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:12,914 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:13,575 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:14,263 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:14,913 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:15,605 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:16,284 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:16,971 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:17,594 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:18,282 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:18,925 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:19,631 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:20,314 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:20,939 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:21,608 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:22,362 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:23,335 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:24,066 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:24,853 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:25,617 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:26,428 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:27,269 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:28,100 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:28,913 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:29,727 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:30,556 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:31,282 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:32,061 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:32,945 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:33,683 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:34,507 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:35,358 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:36,209 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:37,114 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:38,024 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:38,842 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:39,565 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:40,369 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:41,100 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:41,930 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:42,675 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:43,468 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:44,239 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:45,083 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:45,890 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:46,705 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:47,545 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:48,320 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:49,155 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:49,921 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:50,726 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:51,492 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:52,377 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:53,250 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:53,978 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:54,805 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:55,619 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:56,534 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:57,360 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:58,223 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:03:59,007 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:00,013 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:00,953 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:01,713 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:02,506 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:03,359 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:04,190 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:04,980 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:05,746 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:06,474 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:07,245 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:08,061 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:08,842 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:09,672 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:10,371 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:11,123 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:11,796 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:12,515 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:13,124 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:13,793 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:14,464 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:15,083 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:15,731 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:16,352 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:16,984 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:17,585 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:18,225 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:18,897 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:19,492 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:20,168 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:20,798 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:21,447 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:22,027 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:22,662 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:23,308 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:23,980 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:24,658 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:25,311 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:26,024 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:26,662 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:27,307 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:27,913 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:28,566 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:29,213 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:29,890 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:30,568 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:31,184 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:31,850 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:32,504 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:33,165 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:33,753 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:34,378 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:35,042 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:35,631 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:36,320 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:36,920 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:37,560 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:38,136 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:38,775 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:39,363 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:40,007 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:40,747 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:41,416 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:42,174 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:42,792 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:43,447 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:44,050 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:44,807 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:45,467 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:46,145 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:46,816 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:47,437 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:48,106 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:48,786 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:49,534 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:50,147 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:50,908 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:51,585 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:52,310 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:53,095 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:53,711 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:54,392 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:55,030 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:55,696 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:56,325 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:57,006 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:57,699 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:58,318 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:59,017 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:04:59,624 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:00,350 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:00,960 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:01,673 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:02,292 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:02,958 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:03,653 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:04,263 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:04,957 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:05,559 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:06,329 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:06,938 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:07,616 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:08,234 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:08,898 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:09,577 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:10,206 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:10,896 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:11,495 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:12,162 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:12,749 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:13,448 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:14,082 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:14,756 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:15,439 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:16,019 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:16,694 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:17,274 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:17,918 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:18,504 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:19,145 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:19,799 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:20,398 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:21,078 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:21,661 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:22,331 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:22,917 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:23,572 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:24,183 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:24,826 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:25,486 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:26,071 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:26,727 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:27,313 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:27,964 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:28,565 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:29,268 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:29,878 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:30,541 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:31,197 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:31,815 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:32,537 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:33,327 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:34,102 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:34,827 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:35,646 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:36,349 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:36,934 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:37,652 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:38,247 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:38,906 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:39,494 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:40,144 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:40,763 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:41,442 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:42,109 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:42,724 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:43,461 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:44,075 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:44,761 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:45,350 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:46,005 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:46,628 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:47,301 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:48,090 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:48,705 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:49,369 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:49,981 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:50,662 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:51,274 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:51,927 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:52,573 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:53,237 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:53,957 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:54,636 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:55,313 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:55,905 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:56,591 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:57,181 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:57,828 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:58,431 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:59,099 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:05:59,767 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:06:00,394 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:06:01,062 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:06:01,676 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:06:02,329 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:06:02,921 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:06:03,575 - INFO - Inserted 50000 rows into 'sales' table.
+2025-08-21 01:06:03,941 - INFO - Inserted 25363 rows into 'sales' table.
+2025-08-21 01:06:03,942 - INFO - sales.csv ingested successfully in chunks.
+2025-08-21 01:06:03,942 - INFO - Processing vendor_invoice.csv...
+2025-08-21 01:06:04,023 - INFO - Inserted 5543 rows into 'vendor_invoice' table.
+2025-08-21 01:06:04,023 - INFO - vendor_invoice.csv ingested successfully.
+2025-08-21 01:06:04,024 - INFO - -----Ingestion Complete-----
+2025-08-21 01:06:04,024 - INFO - Total Time Taken: 3.69 minutes
+2025-08-21 02:57:14,453 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-21 02:57:14,458 - WARNING - No such comm: 968014d7-a5bf-4b4e-813e-5aa56c0903dd
+2025-08-21 02:57:14,458 - DEBUG - Current comms: []
+2025-08-21 03:13:46,838 - INFO - Creating vendor Summary Table....
+2025-08-21 03:13:49,091 - INFO -    VendorNumber                   VendorName  Brand  Price  PurchasePrice  \
+0          4425        MARTIGNETTI COMPANIES   3405  28.99          23.19   
+1          3960  DIAGEO NORTH AMERICA INC      4261  22.99          16.17   
+2         17035  PERNOD RICARD USA             8068  24.99          18.24   
+3          3960  DIAGEO NORTH AMERICA INC      8082  33.99          21.73   
+4         17035  PERNOD RICARD USA             5364  29.99          23.07   
+
+   TotalVolume  TOTALsalesDollars  TotalSalesPrice  TotalSalesQuantity  \
+0    3157000.0          810618.38         52297.96               27962   
+1    2117500.0          596850.65         25397.90               28435   
+2    4042500.0          514196.10         54261.90               21890   
+3    3946250.0          483118.35         65372.45               16665   
+4    4042500.0          394218.55         69276.90               13145   
+
+   TotalExciseTax  TotalPurchaseQuantity  TotalPurchaseDollars  \
+0        51379.56               58089042          6.129572e+08   
+1        52246.70              120115336          1.121116e+09   
+2        40222.05               69197436          1.013212e+09   
+3        30620.15              223851308          2.089352e+09   
+4        24151.05               69197436          1.013212e+09   
+
+   TotalFreightCost  
+0        3188443.28  
+1        5654705.54  
+2        5198769.24  
+3       10538314.87  
+4        5198769.24  
+2025-08-21 03:13:49,094 - INFO - Ingesting data....
+2025-08-21 03:13:49,094 - INFO - Complete
+2025-08-21 03:14:34,937 - INFO - Creating vendor Summary Table....
+2025-08-21 03:14:37,173 - INFO -    VendorNumber                   VendorName  Brand  Price  PurchasePrice  \
+0          4425        MARTIGNETTI COMPANIES   3405  28.99          23.19   
+1          3960  DIAGEO NORTH AMERICA INC      4261  22.99          16.17   
+2         17035  PERNOD RICARD USA             8068  24.99          18.24   
+3          3960  DIAGEO NORTH AMERICA INC      8082  33.99          21.73   
+4         17035  PERNOD RICARD USA             5364  29.99          23.07   
+
+   TotalVolume  TOTALsalesDollars  TotalSalesPrice  TotalSalesQuantity  \
+0    3157000.0          810618.38         52297.96               27962   
+1    2117500.0          596850.65         25397.90               28435   
+2    4042500.0          514196.10         54261.90               21890   
+3    3946250.0          483118.35         65372.45               16665   
+4    4042500.0          394218.55         69276.90               13145   
+
+   TotalExciseTax  TotalPurchaseQuantity  TotalPurchaseDollars  \
+0        51379.56               58089042          6.129572e+08   
+1        52246.70              120115336          1.121116e+09   
+2        40222.05               69197436          1.013212e+09   
+3        30620.15              223851308          2.089352e+09   
+4        24151.05               69197436          1.013212e+09   
+
+   TotalFreightCost  
+0        3188443.28  
+1        5654705.54  
+2        5198769.24  
+3       10538314.87  
+4        5198769.24  
+2025-08-21 03:14:37,177 - INFO - Ingesting data....
+2025-08-21 03:14:37,177 - INFO - Complete
+2025-08-21 03:16:33,887 - INFO - Creating vendor Summary Table....
+2025-08-21 03:16:36,193 - INFO -    VendorNumber  ... TotalFreightCost
+0          4425  ...       3188443.28
+1          3960  ...       5654705.54
+2         17035  ...       5198769.24
+3          3960  ...      10538314.87
+4         17035  ...       5198769.24
+
+[5 rows x 13 columns]
+2025-08-21 03:16:36,213 - INFO - Ingesting data....
+2025-08-21 03:16:36,213 - INFO - Complete
+2025-08-21 04:12:30,747 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-21 04:12:30,754 - WARNING - No such comm: a8f12162-42b9-4611-971f-c5488f171454
+2025-08-21 04:12:30,754 - DEBUG - Current comms: []
+2025-08-27 21:42:25,442 - INFO - Creating Vendor Summary Table...
+2025-08-27 21:42:28,859 - INFO - Raw Summary Created Successfully
+2025-08-27 21:42:28,866 - INFO - Data Cleaned Successfully
+2025-08-27 21:42:28,866 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  ...  StockTurnover  SalesToPurchaseRatio
+0          4425     MARTIGNETTI COMPANIES  ...       0.000481              0.001322
+1          3960  DIAGEO NORTH AMERICA INC  ...       0.000237              0.000532
+2         17035         PERNOD RICARD USA  ...       0.000316              0.000507
+3          3960  DIAGEO NORTH AMERICA INC  ...       0.000074              0.000231
+4         17035         PERNOD RICARD USA  ...       0.000190              0.000389
+
+[5 rows x 17 columns]
+2025-08-27 21:42:29,003 - ERROR - Ingestion Failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-08-27 21:42:29,003 - INFO - Process Completed Successfully
+2025-08-27 21:42:53,426 - INFO - Creating Vendor Summary Table...
+2025-08-27 21:42:56,593 - INFO - Raw Summary Created Successfully
+2025-08-27 21:42:56,601 - INFO - Data Cleaned Successfully
+2025-08-27 21:42:56,601 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  ...  StockTurnover  SalesToPurchaseRatio
+0          4425     MARTIGNETTI COMPANIES  ...       0.000481              0.001322
+1          3960  DIAGEO NORTH AMERICA INC  ...       0.000237              0.000532
+2         17035         PERNOD RICARD USA  ...       0.000316              0.000507
+3          3960  DIAGEO NORTH AMERICA INC  ...       0.000074              0.000231
+4         17035         PERNOD RICARD USA  ...       0.000190              0.000389
+
+[5 rows x 17 columns]
+2025-08-27 21:42:56,678 - ERROR - Ingestion Failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-08-27 21:42:56,678 - INFO - Process Completed Successfully
+2025-08-27 21:48:32,606 - INFO - Creating Vendor Summary Table...
+2025-08-27 21:48:35,757 - INFO - Raw Summary Created Successfully
+2025-08-27 21:48:35,761 - INFO - Data Cleaned Successfully
+2025-08-27 21:48:35,761 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  ...  StockTurnover  SalesToPurchaseRatio
+0          4425     MARTIGNETTI COMPANIES  ...       0.000481              0.001322
+1          3960  DIAGEO NORTH AMERICA INC  ...       0.000237              0.000532
+2         17035         PERNOD RICARD USA  ...       0.000316              0.000507
+3          3960  DIAGEO NORTH AMERICA INC  ...       0.000074              0.000231
+4         17035         PERNOD RICARD USA  ...       0.000190              0.000389
+
+[5 rows x 17 columns]
+2025-08-27 21:48:35,823 - ERROR - Ingestion Failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-08-27 21:48:35,823 - INFO - Process Completed Successfully
+2025-08-27 21:50:19,605 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 21:50:22,616 - INFO - Raw Summary Created Successfully
+2025-08-27 21:50:22,620 - INFO - Data Cleaned Successfully
+2025-08-27 21:50:22,620 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  ...  StockTurnover  SalesToPurchaseRatio
+0          4425     MARTIGNETTI COMPANIES  ...       0.000481              0.001322
+1          3960  DIAGEO NORTH AMERICA INC  ...       0.000237              0.000532
+2         17035         PERNOD RICARD USA  ...       0.000316              0.000507
+3          3960  DIAGEO NORTH AMERICA INC  ...       0.000074              0.000231
+4         17035         PERNOD RICARD USA  ...       0.000190              0.000389
+
+[5 rows x 17 columns]
+2025-08-27 21:50:22,698 - ERROR - Ingestion Failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-08-27 21:50:22,748 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary.csv
+2025-08-27 21:53:04,310 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 21:53:07,173 - INFO - Raw Summary Created Successfully
+2025-08-27 21:53:07,178 - INFO - Data Cleaned Successfully
+2025-08-27 21:53:07,179 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  ...  StockTurnover  SalesToPurchaseRatio
+0          4425     MARTIGNETTI COMPANIES  ...       0.000481              0.001322
+1          3960  DIAGEO NORTH AMERICA INC  ...       0.000237              0.000532
+2         17035         PERNOD RICARD USA  ...       0.000316              0.000507
+3          3960  DIAGEO NORTH AMERICA INC  ...       0.000074              0.000231
+4         17035         PERNOD RICARD USA  ...       0.000190              0.000389
+
+[5 rows x 17 columns]
+2025-08-27 21:53:07,252 - ERROR - Ingestion Failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-08-27 21:53:07,286 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary.csv
+2025-08-27 21:58:57,068 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 21:59:00,466 - INFO - Raw Summary Created Successfully
+2025-08-27 21:59:00,470 - INFO - Data Cleaned Successfully
+2025-08-27 21:59:00,470 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  ...  StockTurnover  SalesToPurchaseRatio
+0          4425     MARTIGNETTI COMPANIES  ...       0.000481              0.001322
+1          3960  DIAGEO NORTH AMERICA INC  ...       0.000237              0.000532
+2         17035         PERNOD RICARD USA  ...       0.000316              0.000507
+3          3960  DIAGEO NORTH AMERICA INC  ...       0.000074              0.000231
+4         17035         PERNOD RICARD USA  ...       0.000190              0.000389
+
+[5 rows x 17 columns]
+2025-08-27 21:59:00,573 - ERROR - Ingestion Failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-08-27 21:59:00,667 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary_20250827_215900.csv
+2025-08-27 22:04:27,058 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 22:04:29,844 - INFO - Raw Summary Created Successfully
+2025-08-27 22:04:29,848 - INFO - Data Cleaned Successfully
+2025-08-27 22:04:29,848 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  ...  StockTurnover  SalesToPurchaseRatio
+0          4425     MARTIGNETTI COMPANIES  ...       0.000481              0.001322
+1          3960  DIAGEO NORTH AMERICA INC  ...       0.000237              0.000532
+2         17035         PERNOD RICARD USA  ...       0.000316              0.000507
+3          3960  DIAGEO NORTH AMERICA INC  ...       0.000074              0.000231
+4         17035         PERNOD RICARD USA  ...       0.000190              0.000389
+
+[5 rows x 17 columns]
+2025-08-27 22:04:29,913 - ERROR - Ingestion Failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-08-27 22:04:29,950 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary_20250827_220429.csv
+2025-08-27 22:56:51,959 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 22:56:58,446 - INFO - Raw Summary Created Successfully
+2025-08-27 22:56:58,596 - INFO - Data Cleaned Successfully
+2025-08-27 22:56:58,597 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  Brand  Price  PurchasePrice  \
+0          4425     MARTIGNETTI COMPANIES   3405  28.99          23.19   
+1          3960  DIAGEO NORTH AMERICA INC   4261  22.99          16.17   
+2         17035         PERNOD RICARD USA   8068  24.99          18.24   
+3          3960  DIAGEO NORTH AMERICA INC   8082  33.99          21.73   
+4         17035         PERNOD RICARD USA   5364  29.99          23.07   
+
+   TotalVolume  TOTALsalesDollars  TotalSalesPrice  TotalSalesQuantity  \
+0    3157000.0          810618.38         52297.96               27962   
+1    2117500.0          596850.65         25397.90               28435   
+2    4042500.0          514196.10         54261.90               21890   
+3    3946250.0          483118.35         65372.45               16665   
+4    4042500.0          394218.55         69276.90               13145   
+
+   TotalExciseTax  TotalPurchaseQuantity  TotalPurchaseDollars  \
+0        51379.56               58089042          6.129572e+08   
+1        52246.70              120115336          1.121116e+09   
+2        40222.05               69197436          1.013212e+09   
+3        30620.15              223851308          2.089352e+09   
+4        24151.05               69197436          1.013212e+09   
+
+   TotalFreightCost   GrossProfit   ProfitMargin  StockTurnover  \
+0        3188443.28 -6.153350e+08  -75909.332988       0.000481   
+1        5654705.54 -1.126173e+09 -188685.961151       0.000237   
+2        5198769.24 -1.017896e+09 -197958.797949       0.000316   
+3       10538314.87 -2.099407e+09 -434553.327848       0.000074   
+4        5198769.24 -1.018016e+09 -258236.553356       0.000190   
+
+   SalesToPurchaseRatio  
+0              0.001322  
+1              0.000532  
+2              0.000507  
+3              0.000231  
+4              0.000389  
+2025-08-27 22:56:58,691 - INFO - Data Ingested Successfully
+2025-08-27 22:56:58,800 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary_20250827_225658.csv
+2025-08-27 22:57:10,120 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 22:57:13,017 - INFO - Raw Summary Created Successfully
+2025-08-27 22:57:13,020 - INFO - Data Cleaned Successfully
+2025-08-27 22:57:13,021 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  ...  StockTurnover  SalesToPurchaseRatio
+0          4425     MARTIGNETTI COMPANIES  ...       0.000481              0.001322
+1          3960  DIAGEO NORTH AMERICA INC  ...       0.000237              0.000532
+2         17035         PERNOD RICARD USA  ...       0.000316              0.000507
+3          3960  DIAGEO NORTH AMERICA INC  ...       0.000074              0.000231
+4         17035         PERNOD RICARD USA  ...       0.000190              0.000389
+
+[5 rows x 17 columns]
+2025-08-27 22:57:13,108 - ERROR - Ingestion Failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-08-27 22:57:13,197 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary_20250827_225713.csv
+2025-08-27 23:02:30,373 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 23:02:36,194 - INFO - Raw Summary Created Successfully
+2025-08-27 23:02:36,201 - INFO - Data Cleaned Successfully
+2025-08-27 23:02:36,201 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  Brand  Price  PurchasePrice  \
+0          4425     MARTIGNETTI COMPANIES   3405  28.99          23.19   
+1          3960  DIAGEO NORTH AMERICA INC   4261  22.99          16.17   
+2         17035         PERNOD RICARD USA   8068  24.99          18.24   
+3          3960  DIAGEO NORTH AMERICA INC   8082  33.99          21.73   
+4         17035         PERNOD RICARD USA   5364  29.99          23.07   
+
+   TotalVolume  TOTALsalesDollars  TotalSalesPrice  TotalSalesQuantity  \
+0    3157000.0          810618.38         52297.96               27962   
+1    2117500.0          596850.65         25397.90               28435   
+2    4042500.0          514196.10         54261.90               21890   
+3    3946250.0          483118.35         65372.45               16665   
+4    4042500.0          394218.55         69276.90               13145   
+
+   TotalExciseTax  TotalPurchaseQuantity  TotalPurchaseDollars  \
+0        51379.56               58089042          6.129572e+08   
+1        52246.70              120115336          1.121116e+09   
+2        40222.05               69197436          1.013212e+09   
+3        30620.15              223851308          2.089352e+09   
+4        24151.05               69197436          1.013212e+09   
+
+   TotalFreightCost    Revenue         COGS  GrossProfit  ProfitMargin  \
+0        3188443.28  810618.38   3836882.06  -3026263.68   -373.327790   
+1        5654705.54  653720.65   6114499.49  -5460778.84   -835.338281   
+2        5198769.24  547031.10   5598042.84  -5051011.74   -923.350014   
+3       10538314.87  566443.35  10900445.32 -10334001.97  -1824.366368   
+4        5198769.24  394218.55   5502024.39  -5107805.84  -1295.678714   
+
+   StockTurnover  SalesToPurchaseRatio  
+0       0.000481              0.211270  
+1       0.000237              0.106913  
+2       0.000316              0.097718  
+3       0.000074              0.051965  
+4       0.000190              0.071650  
+2025-08-27 23:02:36,291 - INFO - Data Ingested Successfully
+2025-08-27 23:02:36,376 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary_20250827_230236.csv
+2025-08-27 23:02:40,024 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 23:02:42,979 - INFO - Raw Summary Created Successfully
+2025-08-27 23:02:43,030 - INFO - Data Cleaned Successfully
+2025-08-27 23:02:43,030 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  ...  StockTurnover  SalesToPurchaseRatio
+0          4425     MARTIGNETTI COMPANIES  ...       0.000481              0.001322
+1          3960  DIAGEO NORTH AMERICA INC  ...       0.000237              0.000532
+2         17035         PERNOD RICARD USA  ...       0.000316              0.000507
+3          3960  DIAGEO NORTH AMERICA INC  ...       0.000074              0.000231
+4         17035         PERNOD RICARD USA  ...       0.000190              0.000389
+
+[5 rows x 17 columns]
+2025-08-27 23:02:43,099 - ERROR - Ingestion Failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-08-27 23:02:43,153 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary_20250827_230243.csv
+2025-08-27 23:39:18,142 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 23:39:20,383 - INFO - Raw Summary Created Successfully
+2025-08-27 23:39:20,445 - INFO - Data Cleaned Successfully
+2025-08-27 23:39:20,446 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  Brand  Price  PurchasePrice  \
+0          4425     MARTIGNETTI COMPANIES   3405  28.99          23.19   
+1          3960  DIAGEO NORTH AMERICA INC   4261  22.99          16.17   
+2         17035         PERNOD RICARD USA   8068  24.99          18.24   
+3          3960  DIAGEO NORTH AMERICA INC   8082  33.99          21.73   
+4         17035         PERNOD RICARD USA   5364  29.99          23.07   
+
+   TotalVolume  TOTALsalesDollars  TotalSalesPrice  TotalSalesQuantity  \
+0    3157000.0          810618.38         52297.96               27962   
+1    2117500.0          596850.65         25397.90               28435   
+2    4042500.0          514196.10         54261.90               21890   
+3    3946250.0          483118.35         65372.45               16665   
+4    4042500.0          394218.55         69276.90               13145   
+
+   TotalExciseTax  TotalPurchaseQuantity  TotalPurchaseDollars  \
+0        51379.56               58089042          6.129572e+08   
+1        52246.70              120115336          1.121116e+09   
+2        40222.05               69197436          1.013212e+09   
+3        30620.15              223851308          2.089352e+09   
+4        24151.05               69197436          1.013212e+09   
+
+   TotalFreightCost    Revenue         COGS  GrossProfit  ProfitMargin  \
+0        3188443.28  810618.38   3836882.06  -3026263.68   -373.327790   
+1        5654705.54  653720.65   6114499.49  -5460778.84   -835.338281   
+2        5198769.24  547031.10   5598042.84  -5051011.74   -923.350014   
+3       10538314.87  566443.35  10900445.32 -10334001.97  -1824.366368   
+4        5198769.24  394218.55   5502024.39  -5107805.84  -1295.678714   
+
+   StockTurnover  SalesToPurchaseRatio  
+0       0.000481              0.211270  
+1       0.000237              0.106913  
+2       0.000316              0.097718  
+3       0.000074              0.051965  
+4       0.000190              0.071650  
+2025-08-27 23:39:20,493 - INFO - Data Ingested Successfully
+2025-08-27 23:39:20,530 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary_20250827_233920.csv
+2025-08-27 23:39:25,931 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 23:39:28,051 - INFO - Raw Summary Created Successfully
+2025-08-27 23:39:28,055 - INFO - Data Cleaned Successfully
+2025-08-27 23:39:28,055 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  ...  StockTurnover  SalesToPurchaseRatio
+0          4425     MARTIGNETTI COMPANIES  ...       0.000481              0.211270
+1          3960  DIAGEO NORTH AMERICA INC  ...       0.000237              0.106913
+2         17035         PERNOD RICARD USA  ...       0.000316              0.097718
+3          3960  DIAGEO NORTH AMERICA INC  ...       0.000074              0.051965
+4         17035         PERNOD RICARD USA  ...       0.000190              0.071650
+
+[5 rows x 19 columns]
+2025-08-27 23:39:28,154 - ERROR - Ingestion Failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-08-27 23:39:28,211 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary_20250827_233928.csv
+2025-08-27 23:43:30,466 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 23:43:32,656 - INFO - Raw Summary Created Successfully
+2025-08-27 23:43:32,708 - INFO - Data Cleaned Successfully
+2025-08-27 23:43:32,708 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  Brand  Price  PurchasePrice  \
+0          4425     MARTIGNETTI COMPANIES   3405  28.99          23.19   
+1          3960  DIAGEO NORTH AMERICA INC   4261  22.99          16.17   
+2         17035         PERNOD RICARD USA   8068  24.99          18.24   
+3          3960  DIAGEO NORTH AMERICA INC   8082  33.99          21.73   
+4         17035         PERNOD RICARD USA   5364  29.99          23.07   
+
+   TotalVolume  TOTALsalesDollars  TotalSalesPrice  TotalSalesQuantity  \
+0    3157000.0          810618.38         52297.96               27962   
+1    2117500.0          596850.65         25397.90               28435   
+2    4042500.0          514196.10         54261.90               21890   
+3    3946250.0          483118.35         65372.45               16665   
+4    4042500.0          394218.55         69276.90               13145   
+
+   TotalExciseTax  TotalPurchaseQuantity  TotalPurchaseDollars  \
+0        51379.56               58089042          6.129572e+08   
+1        52246.70              120115336          1.121116e+09   
+2        40222.05               69197436          1.013212e+09   
+3        30620.15              223851308          2.089352e+09   
+4        24151.05               69197436          1.013212e+09   
+
+   TotalFreightCost    Revenue         COGS  GrossProfit  ProfitMargin  \
+0        3188443.28  810618.38   3836882.06   3026263.68    373.327790   
+1        5654705.54  653720.65   6114499.49   5460778.84    835.338281   
+2        5198769.24  547031.10   5598042.84   5051011.74    923.350014   
+3       10538314.87  566443.35  10900445.32  10334001.97   1824.366368   
+4        5198769.24  394218.55   5502024.39   5107805.84   1295.678714   
+
+   StockTurnover  SalesToPurchaseRatio  
+0       0.000481              0.211270  
+1       0.000237              0.106913  
+2       0.000316              0.097718  
+3       0.000074              0.051965  
+4       0.000190              0.071650  
+2025-08-27 23:43:32,760 - INFO - Data Ingested Successfully
+2025-08-27 23:43:32,804 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary_20250827_234332.csv
+2025-08-27 23:43:42,626 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 23:43:44,808 - INFO - Raw Summary Created Successfully
+2025-08-27 23:43:44,860 - INFO - Data Cleaned Successfully
+2025-08-27 23:43:44,861 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  ...  StockTurnover  SalesToPurchaseRatio
+0          4425     MARTIGNETTI COMPANIES  ...       0.000481              0.211270
+1          3960  DIAGEO NORTH AMERICA INC  ...       0.000237              0.106913
+2         17035         PERNOD RICARD USA  ...       0.000316              0.097718
+3          3960  DIAGEO NORTH AMERICA INC  ...       0.000074              0.051965
+4         17035         PERNOD RICARD USA  ...       0.000190              0.071650
+
+[5 rows x 19 columns]
+2025-08-27 23:43:44,983 - ERROR - Ingestion Failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-08-27 23:43:45,028 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary_20250827_234344.csv
+2025-08-27 23:45:24,687 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 23:45:26,965 - INFO - Raw Summary Created Successfully
+2025-08-27 23:45:27,020 - INFO - Data Cleaned Successfully
+2025-08-27 23:45:27,021 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  Brand  Price  PurchasePrice  \
+0          4425     MARTIGNETTI COMPANIES   3405  28.99          23.19   
+1          3960  DIAGEO NORTH AMERICA INC   4261  22.99          16.17   
+2         17035         PERNOD RICARD USA   8068  24.99          18.24   
+3          3960  DIAGEO NORTH AMERICA INC   8082  33.99          21.73   
+4         17035         PERNOD RICARD USA   5364  29.99          23.07   
+
+   TotalVolume  TOTALsalesDollars  TotalSalesPrice  TotalSalesQuantity  \
+0    3157000.0          810618.38         52297.96               27962   
+1    2117500.0          596850.65         25397.90               28435   
+2    4042500.0          514196.10         54261.90               21890   
+3    3946250.0          483118.35         65372.45               16665   
+4    4042500.0          394218.55         69276.90               13145   
+
+   TotalExciseTax  TotalPurchaseQuantity  TotalPurchaseDollars  \
+0        51379.56               58089042          6.129572e+08   
+1        52246.70              120115336          1.121116e+09   
+2        40222.05               69197436          1.013212e+09   
+3        30620.15              223851308          2.089352e+09   
+4        24151.05               69197436          1.013212e+09   
+
+   TotalFreightCost    Revenue         COGS  GrossProfit  ProfitMargin  \
+0        3188443.28  810618.38   3836882.06   3026263.68    373.327790   
+1        5654705.54  653720.65   6114499.49   5460778.84    835.338281   
+2        5198769.24  547031.10   5598042.84   5051011.74    923.350014   
+3       10538314.87  566443.35  10900445.32  10334001.97   1824.366368   
+4        5198769.24  394218.55   5502024.39   5107805.84   1295.678714   
+
+   StockTurnover  SalesToPurchaseRatio  
+0       0.000481              0.211270  
+1       0.000237              0.106913  
+2       0.000316              0.097718  
+3       0.000074              0.051965  
+4       0.000190              0.071650  
+2025-08-27 23:45:27,068 - INFO - Data Ingested Successfully
+2025-08-27 23:45:27,101 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary_20250827_234527.csv
+2025-08-27 23:49:40,645 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 23:49:42,875 - INFO - Raw Summary Created Successfully
+2025-08-27 23:49:42,944 - INFO - Data Cleaned Successfully
+2025-08-27 23:49:42,944 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  Brand  Price  PurchasePrice  \
+0          4425     MARTIGNETTI COMPANIES   3405  28.99          23.19   
+1          3960  DIAGEO NORTH AMERICA INC   4261  22.99          16.17   
+2         17035         PERNOD RICARD USA   8068  24.99          18.24   
+3          3960  DIAGEO NORTH AMERICA INC   8082  33.99          21.73   
+4         17035         PERNOD RICARD USA   5364  29.99          23.07   
+
+   TotalVolume  TOTALsalesDollars  TotalSalesPrice  TotalSalesQuantity  \
+0    3157000.0          810618.38         52297.96               27962   
+1    2117500.0          596850.65         25397.90               28435   
+2    4042500.0          514196.10         54261.90               21890   
+3    3946250.0          483118.35         65372.45               16665   
+4    4042500.0          394218.55         69276.90               13145   
+
+   TotalExciseTax  TotalPurchaseQuantity  TotalPurchaseDollars  \
+0        51379.56               58089042          6.129572e+08   
+1        52246.70              120115336          1.121116e+09   
+2        40222.05               69197436          1.013212e+09   
+3        30620.15              223851308          2.089352e+09   
+4        24151.05               69197436          1.013212e+09   
+
+   TotalFreightCost    Revenue         COGS  GrossProfit  ProfitMargin  \
+0        3188443.28  810618.38   3836882.06   3026263.68    373.327790   
+1        5654705.54  653720.65   6114499.49   5460778.84    835.338281   
+2        5198769.24  547031.10   5598042.84   5051011.74    923.350014   
+3       10538314.87  566443.35  10900445.32  10334001.97   1824.366368   
+4        5198769.24  394218.55   5502024.39   5107805.84   1295.678714   
+
+   StockTurnover  SalesToPurchaseRatio  
+0       0.000481              0.211270  
+1       0.000237              0.106913  
+2       0.000316              0.097718  
+3       0.000074              0.051965  
+4       0.000190              0.071650  
+2025-08-27 23:49:42,986 - INFO - Data Ingested Successfully
+2025-08-27 23:49:43,022 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary_20250827_234942.csv
+2025-08-27 23:51:32,132 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 23:51:34,256 - INFO - Raw Summary Created Successfully
+2025-08-27 23:51:34,260 - INFO - Data Cleaned Successfully
+2025-08-27 23:51:34,260 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  Brand  Price  PurchasePrice  \
+0          4425     MARTIGNETTI COMPANIES   3405  28.99          23.19   
+1          3960  DIAGEO NORTH AMERICA INC   4261  22.99          16.17   
+2         17035         PERNOD RICARD USA   8068  24.99          18.24   
+3          3960  DIAGEO NORTH AMERICA INC   8082  33.99          21.73   
+4         17035         PERNOD RICARD USA   5364  29.99          23.07   
+
+   TotalVolume  TOTALsalesDollars  TotalSalesPrice  TotalSalesQuantity  \
+0    3157000.0          810618.38         52297.96               27962   
+1    2117500.0          596850.65         25397.90               28435   
+2    4042500.0          514196.10         54261.90               21890   
+3    3946250.0          483118.35         65372.45               16665   
+4    4042500.0          394218.55         69276.90               13145   
+
+   TotalExciseTax  TotalPurchaseQuantity  TotalPurchaseDollars  \
+0        51379.56               58089042          6.129572e+08   
+1        52246.70              120115336          1.121116e+09   
+2        40222.05               69197436          1.013212e+09   
+3        30620.15              223851308          2.089352e+09   
+4        24151.05               69197436          1.013212e+09   
+
+   TotalFreightCost    Revenue         COGS  GrossProfit  ProfitMargin  \
+0        3188443.28  810618.38   3836882.06   3026263.68    373.327790   
+1        5654705.54  653720.65   6114499.49   5460778.84    835.338281   
+2        5198769.24  547031.10   5598042.84   5051011.74    923.350014   
+3       10538314.87  566443.35  10900445.32  10334001.97   1824.366368   
+4        5198769.24  394218.55   5502024.39   5107805.84   1295.678714   
+
+   StockTurnover  SalesToPurchaseRatio  
+0       0.000481              0.211270  
+1       0.000237              0.106913  
+2       0.000316              0.097718  
+3       0.000074              0.051965  
+4       0.000190              0.071650  
+2025-08-27 23:51:34,350 - INFO - Data Ingested Successfully
+2025-08-27 23:51:34,382 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary.csv
+2025-08-27 23:51:43,131 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 23:51:45,340 - INFO - Raw Summary Created Successfully
+2025-08-27 23:51:45,408 - INFO - Data Cleaned Successfully
+2025-08-27 23:51:45,408 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  ...  StockTurnover  SalesToPurchaseRatio
+0          4425     MARTIGNETTI COMPANIES  ...       0.000481              0.211270
+1          3960  DIAGEO NORTH AMERICA INC  ...       0.000237              0.106913
+2         17035         PERNOD RICARD USA  ...       0.000316              0.097718
+3          3960  DIAGEO NORTH AMERICA INC  ...       0.000074              0.051965
+4         17035         PERNOD RICARD USA  ...       0.000190              0.071650
+
+[5 rows x 19 columns]
+2025-08-27 23:51:45,543 - ERROR - Ingestion Failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-08-27 23:51:45,594 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary_20250827_235145.csv
+2025-08-27 23:52:16,894 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 23:52:18,971 - INFO - Raw Summary Created Successfully
+2025-08-27 23:52:18,975 - INFO - Data Cleaned Successfully
+2025-08-27 23:52:18,975 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  ...  StockTurnover  SalesToPurchaseRatio
+0          4425     MARTIGNETTI COMPANIES  ...       0.000481              0.211270
+1          3960  DIAGEO NORTH AMERICA INC  ...       0.000237              0.106913
+2         17035         PERNOD RICARD USA  ...       0.000316              0.097718
+3          3960  DIAGEO NORTH AMERICA INC  ...       0.000074              0.051965
+4         17035         PERNOD RICARD USA  ...       0.000190              0.071650
+
+[5 rows x 19 columns]
+2025-08-27 23:52:19,030 - ERROR - Ingestion Failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-08-27 23:52:19,064 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary.csv
+2025-08-27 23:52:30,012 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 23:52:33,015 - INFO - Raw Summary Created Successfully
+2025-08-27 23:52:33,019 - INFO - Data Cleaned Successfully
+2025-08-27 23:52:33,019 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  Brand  Price  PurchasePrice  \
+0          4425     MARTIGNETTI COMPANIES   3405  28.99          23.19   
+1          3960  DIAGEO NORTH AMERICA INC   4261  22.99          16.17   
+2         17035         PERNOD RICARD USA   8068  24.99          18.24   
+3          3960  DIAGEO NORTH AMERICA INC   8082  33.99          21.73   
+4         17035         PERNOD RICARD USA   5364  29.99          23.07   
+
+   TotalVolume  TOTALsalesDollars  TotalSalesPrice  TotalSalesQuantity  \
+0    3157000.0          810618.38         52297.96               27962   
+1    2117500.0          596850.65         25397.90               28435   
+2    4042500.0          514196.10         54261.90               21890   
+3    3946250.0          483118.35         65372.45               16665   
+4    4042500.0          394218.55         69276.90               13145   
+
+   TotalExciseTax  TotalPurchaseQuantity  TotalPurchaseDollars  \
+0        51379.56               58089042          6.129572e+08   
+1        52246.70              120115336          1.121116e+09   
+2        40222.05               69197436          1.013212e+09   
+3        30620.15              223851308          2.089352e+09   
+4        24151.05               69197436          1.013212e+09   
+
+   TotalFreightCost    Revenue         COGS  GrossProfit  ProfitMargin  \
+0        3188443.28  810618.38   3836882.06   3026263.68    373.327790   
+1        5654705.54  653720.65   6114499.49   5460778.84    835.338281   
+2        5198769.24  547031.10   5598042.84   5051011.74    923.350014   
+3       10538314.87  566443.35  10900445.32  10334001.97   1824.366368   
+4        5198769.24  394218.55   5502024.39   5107805.84   1295.678714   
+
+   StockTurnover  SalesToPurchaseRatio  
+0       0.000481              0.211270  
+1       0.000237              0.106913  
+2       0.000316              0.097718  
+3       0.000074              0.051965  
+4       0.000190              0.071650  
+2025-08-27 23:52:33,067 - INFO - Data Ingested Successfully
+2025-08-27 23:52:33,102 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary.csv
+2025-08-27 23:52:37,983 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 23:52:40,147 - INFO - Raw Summary Created Successfully
+2025-08-27 23:52:40,152 - INFO - Data Cleaned Successfully
+2025-08-27 23:52:40,152 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  ...  StockTurnover  SalesToPurchaseRatio
+0          4425     MARTIGNETTI COMPANIES  ...       0.000481              0.211270
+1          3960  DIAGEO NORTH AMERICA INC  ...       0.000237              0.106913
+2         17035         PERNOD RICARD USA  ...       0.000316              0.097718
+3          3960  DIAGEO NORTH AMERICA INC  ...       0.000074              0.051965
+4         17035         PERNOD RICARD USA  ...       0.000190              0.071650
+
+[5 rows x 19 columns]
+2025-08-27 23:52:40,205 - ERROR - Ingestion Failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-08-27 23:52:40,242 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary.csv
+2025-08-27 23:53:23,297 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 23:53:25,455 - INFO - Raw Summary Created Successfully
+2025-08-27 23:53:25,458 - INFO - Data Cleaned Successfully
+2025-08-27 23:53:25,458 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  Brand  Price  PurchasePrice  \
+0          4425     MARTIGNETTI COMPANIES   3405  28.99          23.19   
+1          3960  DIAGEO NORTH AMERICA INC   4261  22.99          16.17   
+2         17035         PERNOD RICARD USA   8068  24.99          18.24   
+3          3960  DIAGEO NORTH AMERICA INC   8082  33.99          21.73   
+4         17035         PERNOD RICARD USA   5364  29.99          23.07   
+
+   TotalVolume  TOTALsalesDollars  TotalSalesPrice  TotalSalesQuantity  \
+0    3157000.0          810618.38         52297.96               27962   
+1    2117500.0          596850.65         25397.90               28435   
+2    4042500.0          514196.10         54261.90               21890   
+3    3946250.0          483118.35         65372.45               16665   
+4    4042500.0          394218.55         69276.90               13145   
+
+   TotalExciseTax  TotalPurchaseQuantity  TotalPurchaseDollars  \
+0        51379.56               58089042          6.129572e+08   
+1        52246.70              120115336          1.121116e+09   
+2        40222.05               69197436          1.013212e+09   
+3        30620.15              223851308          2.089352e+09   
+4        24151.05               69197436          1.013212e+09   
+
+   TotalFreightCost    Revenue         COGS  GrossProfit  ProfitMargin  \
+0        3188443.28  810618.38   3836882.06   3026263.68    373.327790   
+1        5654705.54  653720.65   6114499.49   5460778.84    835.338281   
+2        5198769.24  547031.10   5598042.84   5051011.74    923.350014   
+3       10538314.87  566443.35  10900445.32  10334001.97   1824.366368   
+4        5198769.24  394218.55   5502024.39   5107805.84   1295.678714   
+
+   StockTurnover  SalesToPurchaseRatio  
+0       0.000481              0.211270  
+1       0.000237              0.106913  
+2       0.000316              0.097718  
+3       0.000074              0.051965  
+4       0.000190              0.071650  
+2025-08-27 23:53:25,501 - INFO - Data Ingested Successfully
+2025-08-27 23:53:25,532 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary.csv
+2025-08-27 23:53:47,289 - INFO - Creating Vendor Sales Summary Table...
+2025-08-27 23:53:49,411 - INFO - Raw Summary Created Successfully
+2025-08-27 23:53:49,415 - INFO - Data Cleaned Successfully
+2025-08-27 23:53:49,416 - INFO - Sample Vendor Summary:
+   VendorNumber                VendorName  ...  StockTurnover  SalesToPurchaseRatio
+0          4425     MARTIGNETTI COMPANIES  ...       0.000481              0.211270
+1          3960  DIAGEO NORTH AMERICA INC  ...       0.000237              0.106913
+2         17035         PERNOD RICARD USA  ...       0.000316              0.097718
+3          3960  DIAGEO NORTH AMERICA INC  ...       0.000074              0.051965
+4         17035         PERNOD RICARD USA  ...       0.000190              0.071650
+
+[5 rows x 19 columns]
+2025-08-27 23:53:49,505 - ERROR - Ingestion Failed: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+2025-08-27 23:53:49,539 - INFO - Vendor sales summary exported successfully to outputs/vendor_sales_summary.csv
+2025-08-28 12:51:16,048 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-28 12:51:16,066 - WARNING - No such comm: 00471471-b35f-428a-ba99-5d7f43d2e713
+2025-08-28 12:51:16,067 - DEBUG - Current comms: []
+2025-08-28 13:30:25,406 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-28 13:30:25,422 - WARNING - No such comm: d0955cf1-4585-4e74-a0cb-e888387d95d0
+2025-08-28 13:30:25,422 - DEBUG - Current comms: []
+2025-08-28 14:15:58,263 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-28 14:15:58,274 - WARNING - No such comm: 436946a9-0709-445a-85a7-5943798e1e12
+2025-08-28 14:15:58,275 - DEBUG - Current comms: []
+2025-08-28 22:15:00,949 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-28 22:15:00,952 - WARNING - No such comm: 4ed05ec0-7725-4d69-8bf7-7eb0fd050229
+2025-08-28 22:15:00,952 - DEBUG - Current comms: []
